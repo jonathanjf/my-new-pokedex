@@ -1,0 +1,21 @@
+.header-container {
+  display: flex;
+  width: 100vw;
+  height: 15vh;
+  background-color: #313ADA;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  box-shadow: rgba(3px, 3px, 3px, 0.5);
+  padding-bottom: 0.5em;
+}
+
+.header-title {
+  color: white;
+  font-weight: bolder;
+}
+
+.header-title:hover {
+  color: red;
+  cursor: pointer;
+}
